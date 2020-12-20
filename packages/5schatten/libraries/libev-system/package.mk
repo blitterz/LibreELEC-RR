@@ -2,11 +2,11 @@
 # Copyright (C) 2019-present Frank Hartung (supervisedthinking (@) gmail.com)
 
 PKG_NAME="libev-system"
-PKG_VERSION="4.27"
-PKG_SHA256="4c91eaffcf2dde23aa7b459bd9905fea81df7547106a47cfd6eba342c5ce3503"
+PKG_VERSION="4.33"
+PKG_SHA256="d6b41df38df2a7ced84e3dd14e3c34afd1c893f67af0086977973f51c4986214"
 PKG_LICENSE="GPL"
 PKG_SITE="http://libev.schmorp.de"
-PKG_URL="https://git.lighttpd.net/libev.git/snapshot/libev-rel-${PKG_VERSION}.tar.gz"
+PKG_URL="https://git.lighttpd.net/mirrors/libev/src/tag/rel-${PKG_VERSION}.tar.gz"
 PKG_DEPENDS_TARGET="toolchain"
 PKG_LONGDESC="A full-featured and high-performance event loop."
 PKG_TOOLCHAIN="configure"
