@@ -9,7 +9,7 @@ PKG_URL="https://github.com/RetroPie/EmulationStation.git"
 PKG_DEPENDS_TARGET="toolchain linux glibc systemd dbus openssl zlib libpng alsa-lib SDL2-system freetype curl freeimage bzip2 vlc emulationstation-theme-carbon emulationstation-theme-simple-dark "
 PKG_LONGDESC="A Fork of Emulation Station which is a flexible emulator front-end supporting keyboardless navigation and custom system themes."
 GET_HANDLER_SUPPORT="git"
-PKG_GIT_CLONE_BRANCH="master"
+PKG_GIT_CLONE_BRANCH="stable"
 PKG_BUILD_FLAGS="+lto"
 
 configure_package() {
