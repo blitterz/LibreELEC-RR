@@ -2,7 +2,7 @@
 # Copyright (C) 2019-present Frank Hartung (supervisedthinking (@) gmail.com)
 
 PKG_NAME="openbor"
-PKG_VERSION="093900a52fb913feabc64cac29229bf865a8a14c"
+PKG_VERSION="b8a2cef9d7c6b90efa62a0188a020f6df79186c2"
 PKG_LICENSE="BSD-3-Clause"
 PKG_SITE="https://github.com/DCurrent/openbor"
 PKG_URL="https://github.com/DCurrent/openbor.git"
