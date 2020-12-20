@@ -1,27 +1,13 @@
 ## LibreELEC-RR 9.x
 ---
-**Project threads**
 
-*English*
-
-* [LibreELEC-RR 9.x [ Emulationstation | Retroarch | DolphinQT | Moonlight | Chrome | Spotify | MakeMKV ]](https://forum.libreelec.tv/thread/12662-libreelec-9-0-reborn-remix-emulationstation-retroarch-dolphinqt-chrome-spotify-w/)
-
-*German*
-
-* [LibreELEC-RR 9.x [ Emulationstation | Retroarch | DolphinQT | Moonlight | Chrome | Spotify | MakeMKV ]](https://www.kodinerds.net/index.php/Thread/62933-LibreELEC-9-0-Reborn-Remix-Emulationstation-Retroarch-DolphinQT-Moonlight-Chrome/)
-
----
 **Currently supported & unsupported devices**
 
 *Supported:*
 
 * Generic AMD & Intel systems with IGP and/or discrete AMD or Nvidia GPU
-* Raspberry Pi 2B, 3B, 3B+
 
 *WIP:*
-
-* Amlogic S905 | AMLGXL
-* Rockchip Rk3399 - ROCKPro64
 
 *Currently unsupported:*
 
@@ -31,7 +17,7 @@
 **Basics**
 
 * [LibreELEC 9.x-devel](https://github.com/LibreELEC/LibreELEC.tv) | 9.1
-* [Kodi 18](https://github.com/xbmc/xbmc) - v18.2
+* [Kodi 18](https://github.com/xbmc/xbmc) - v18.9
 * [Linux 5.1.x](https://www.kernel.org/) - generic x86-64 builds
 * [Linux 5.1.x](https://www.kernel.org/) - Amlogic S905 | AMLGXL builds
 * [Linux 5.1.x](https://github.com/raspberrypi/linux) - RPi2 & RPi3 builds
