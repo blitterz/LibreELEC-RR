@@ -2,8 +2,8 @@
 # Copyright (C) 2018-present Frank Hartung (supervisedthinking (@) gmail.com)
 
 PKG_NAME="mame2016"
-PKG_VERSION="ea4c1ffa75eb3fb0096158b71706b8b84d86d12c"
-PKG_SHA256="71916b18794d854a420cf317ceb95d5f1dad7a142bf7717d5cdab4ff1bf991f7"
+PKG_VERSION="02987af9b81a9c3294af8fb9d5a34f9826a2cf4d"
+PKG_SHA256="4bd7e13d94506f6f556ddc3615b230645d72114f377cb84297dfd284372a4c5b"
 PKG_LICENSE="GPLv2"
 PKG_SITE="https://github.com/libretro/mame2016-libretro"
 PKG_URL="https://github.com/libretro/mame2016-libretro/archive/${PKG_VERSION}.tar.gz"
@@ -11,6 +11,7 @@ PKG_DEPENDS_TARGET="toolchain linux glibc"
 PKG_LONGDESC="Late 2016 version of MAME (0.174) for libretro. Compatible with MAME 0.174 romsets."
 PKG_TOOLCHAIN="make"
 PKG_BUILD_FLAGS="+lto-parallel"
+
 
 PKG_LIBNAME="mamearcade2016_libretro.so"
 PKG_LIBPATH="${PKG_LIBNAME}"
