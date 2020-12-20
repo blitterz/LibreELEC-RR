@@ -2,7 +2,7 @@
 # Copyright (C) 2019-present Frank Hartung (supervisedthinking (@) gmail.com)
 
 PKG_NAME="play"
-PKG_VERSION="95ce2c3099d9df6a5bb8bae0958472ad6981c1ed"
+PKG_VERSION="884ae3b96c631f235cd18b2643d1f318fa6951fb"
 PKG_LICENSE="GPLv2"
 PKG_SITE="https://github.com/libretro/Play-"
 PKG_URL="https://github.com/libretro/Play-.git"
