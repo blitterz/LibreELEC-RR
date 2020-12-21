@@ -67,7 +67,7 @@
 ---
 **Emulator Frontends**
 
-* [Emulationstation-Retropie](https://github.com/RetroPie/EmulationStation) - v2.8.3
+* [Emulationstation-Retropie](https://github.com/RetroPie/EmulationStation) - v2.8.4
 * [Pegasus-Frontend](http://pegasus-frontend.org/) - Alpha 11+
 * [RetroArch](https://github.com/libretro/RetroArch) - v1.7.7
 ---
