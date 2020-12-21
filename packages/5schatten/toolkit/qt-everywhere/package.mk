@@ -24,7 +24,7 @@ configure_package() {
 
   # Build with XCB support for X11
   if [ ${DISPLAYSERVER} = "x11" ]; then
-    PKG_DEPENDS_TARGET+=" xcb-util xcb-util-image xcb-util-keysyms xcb-util-renderutil xcb-util-wm"
+    PKG_DEPENDS_TARGET+="xcb-util xcb-util-keysyms xcb-util-renderutil xcb-util-wm xcb-util-image"
   fi
 }
 
