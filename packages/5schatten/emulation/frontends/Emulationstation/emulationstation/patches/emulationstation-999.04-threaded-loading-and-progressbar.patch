@@ -396,8 +396,6 @@ index 63bf667fe..b098a8dda 100644
  	void populateFolder(FileData* folder);
  	void indexAllGameFilters(const FileData* folder);
  	void setIsGameSystemStatus();
--
-+	
  	FileFilterIndex* mFilterIndex;
  
  	FileData* mRootFolder;
