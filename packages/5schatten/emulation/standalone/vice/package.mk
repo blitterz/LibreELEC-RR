@@ -2,7 +2,7 @@
 # Copyright (C) 2018-present Frank Hartung (supervisedthinking (@) gmail.com)
 
 PKG_NAME="vice"
-PKG_VERSION="3.3"
+PKG_VERSION="3.4"
 PKG_SHA256="1a55b38cc988165b077808c07c52a779d181270b28c14b5c9abf4e569137431d"
 PKG_ARCH="x86_64"
 PKG_LICENSE="GPLv3"
