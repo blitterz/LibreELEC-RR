@@ -256,10 +256,6 @@ make distclean
 ---
 **Issues**
 
-Visit the [LibreELEC 9 Remix issue page](https://github.com/5schatten/LibreELEC.tv/issues) or [LibreELEC 9.0 Reborn Remix [Emulationstation|Retroarch|DolphinQT |Chrome|Spotify]](https://forum.libreelec.tv/thread/12662-libreelec-9-0-reborn-remix-emulationstation-retroarch-dolphinqt-chrome-spotify-w/)  for issues pertaining to this specific fork. 
-
-For everything else, see the [LibreELEC Forum](https://forum.libreelec.tv).
-
 ---
 **Original README below:**
 
