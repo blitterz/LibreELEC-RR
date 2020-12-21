@@ -112,7 +112,7 @@
 *  [m64p](https://m64p.github.io/) - git bcbef77 | Nintendo N64
 *  [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - v1.0.1 | NVIDIA GameStream client
 *  [PCSX2 ](https://github.com/PCSX2/pcsx2) - git 5b9e93c | v1.5.0-dev | Docker addon needed | Sony PlayStation 2
-*  [Vice](http://vice-emu.sourceforge.net/index.html#vice) - v3.3-release | Commodore C64
+*  [Vice](http://vice-emu.sourceforge.net/index.html#vice) - v3.4-release | Commodore C64
 *  [libretro-beetle-psx](https://github.com/libretro/beetle-psx-libretro) - git c20eac9 | Sony Playstation
 *  [libretro-beetle-saturn](https://github.com/libretro/beetle-saturn-libretro) - git 052f6d6 | Sega Saturn
 *  [libretro-bsnes-mercury](https://github.com/libretro/bsnes-mercury) git 4e221df | balanced & accuracy | Nintendo Super Nintendo Entertainment System
