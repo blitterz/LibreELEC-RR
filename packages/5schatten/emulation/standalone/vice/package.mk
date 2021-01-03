@@ -2,8 +2,8 @@
 # Copyright (C) 2018-present Frank Hartung (supervisedthinking (@) gmail.com)
 
 PKG_NAME="vice"
-PKG_VERSION="3.4"
-PKG_SHA256="1a55b38cc988165b077808c07c52a779d181270b28c14b5c9abf4e569137431d"
+PKG_VERSION="3.5"
+PKG_SHA256="56b978faaeb8b2896032bd604d03c3501002187eef1ca58ceced40f11a65dc0e"
 PKG_ARCH="x86_64"
 PKG_LICENSE="GPLv3"
 PKG_SITE="http://vice-emu.sourceforge.net/"
